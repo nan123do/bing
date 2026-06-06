@@ -326,6 +326,14 @@ h1 {
     color: var(--blue-dark);
 }
 
+.creator-credit {
+    margin: -2px 0 0;
+    color: var(--muted);
+    text-align: center;
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+
 footer {
     display: flex;
     justify-content: center;
